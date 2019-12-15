@@ -4,6 +4,11 @@
 
 ## Creating a New Project
 ### app.py, requirements.txt
-### deploying
+### deploying (dev, test)
 ### running an application locally
+
+#### Routes
+
+#### Post request
+
 
