@@ -24,3 +24,8 @@
 * query_params
 * headers
 * method
+
+## Project 2: Slack Bot
+
+
+## Project 3: Music Festival Posters
