@@ -12,3 +12,8 @@
 #### Post request
 
 #### current_request
+
+* json_body vs. raw_body
+* query_params
+* headers
+* method
