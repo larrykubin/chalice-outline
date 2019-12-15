@@ -32,5 +32,18 @@
 
 ## Project 2: Slack Bot
 
+* Accepting other content types
+* Including 3rd party libraries
+* Events (Cron, Rate)
 
 ## Project 3: Music Festival Posters
+
+* What is this?
+* React UI
+* CORS
+* Packaging chalicelib - font, image, blueprints, packages
+** boto3
+*** DynamoDB
+*** S3
+* Cognito
+* SDK Generation
