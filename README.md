@@ -11,7 +11,7 @@
 * app.py
 * requirements.txt
 * deploying
-* AWS Console - Lambda, IAM, Policies and Permissions
+* AWS Console - Lambda, API Gateway Diagram, IAM, Policies and Permissions
 * running an application locally
 
 #### Routes
