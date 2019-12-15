@@ -1,11 +1,13 @@
 # AWS Chalice
 
-# Hello World
+## Project 1: Hello World
 
-## Creating a New Project
-### app.py, requirements.txt
-### deploying (dev, test)
-### running an application locally
+### Creating a New Project
+
+*  app.py
+* requirements.txt
+* deploying (dev, test)
+* running an application locally
 
 #### Routes
 
