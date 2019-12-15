@@ -1,5 +1,9 @@
 # AWS Chalice
 
+* Serverless Microframework - Python
+* Lambda + API Gateway - Billed per execution
+* Handles configuration
+
 ## Project 1: Hello World
 
 ### Creating a New Project
