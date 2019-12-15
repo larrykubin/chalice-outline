@@ -4,26 +4,27 @@
 
 ### Creating a New Project
 
-*  app.py
+* app.py
 * requirements.txt
-* deploying (dev, test)
+* deploying
+* AWS Console - Lambda, IAM, Policies and Permissions
 * running an application locally
 
 #### Routes
 
 * decorator syntax
 * named placeholders
+* deploying to different environments
 
-#### Post request
+#### Logging
 
-* methods
+* app.log.setLevel(logging.DEBUG) and app.log.debug()
+* Cloudwatch
 
-#### current_request
+#### Request and Response
 
-* json_body
-* query_params
-* headers
-* method
+* POST Request
+* current_request - json_body, query_params, headers, method
 
 ## Project 2: Slack Bot
 
