@@ -9,11 +9,16 @@
 
 #### Routes
 
+* decorator syntax
+* named placeholders
+
 #### Post request
+
+* methods
 
 #### current_request
 
-* json_body vs. raw_body
+* json_body
 * query_params
 * headers
 * method
