@@ -41,7 +41,7 @@
 * Including 3rd party libraries (requirements.txt)
 * Adding local packages (config, utils)
 * Cloudwatch Events (Cron, Rate)
-* DynamoDB
+* DynamoDB, IAM Role
 * Billing
 
 ### Screencast Tutorials (Stockbot)
