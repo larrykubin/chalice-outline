@@ -38,11 +38,11 @@
 ## Project 2: Slack Bot
 
 * Accepting other content types
+* Verifying the request
 * Including 3rd party libraries (requirements.txt)
 * Adding local packages (config, utils)
 * Cloudwatch Events (Cron, Rate)
 * DynamoDB, IAM Role (Automatic vs. Manual)
-* Authorization
 * Billing
 
 ### Source Code
