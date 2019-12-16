@@ -30,11 +30,24 @@
 * POST Request
 * current_request - json_body, query_params, headers, method
 
+### Screencast Tutorials (Twitter App)
+
+* Getting Started with Chalice Tutorial Part 1: https://www.youtube.com/watch?v=me-v7BCaZH0
+* Getting Started with Chalice Tutorial Part 2: https://www.youtube.com/watch?v=mRuBtE057aM
+
 ## Project 2: Slack Bot
 
 * Accepting other content types
-* Including 3rd party libraries
-* Events (Cron, Rate)
+* Including 3rd party libraries (requirements.txt)
+* Adding local packages (config, utils)
+* Cloudwatch Events (Cron, Rate)
+* DynamoDB
+
+### Screencast Tutorials (Stockbot)
+
+* Serverless Slack Bot Tutorial Part 1: https://www.youtube.com/watch?v=-Ag_k5p0sTs
+* Serverless Slack Bot Tutorial Part 2: https://www.youtube.com/watch?v=G__hYyluwYM
+* Serverless Slack Bot Tutorial Part 3: https://www.youtube.com/watch?v=m0HW-Bb70_c
 
 ## Project 3: Music Festival Posters
 
