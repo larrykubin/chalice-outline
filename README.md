@@ -44,6 +44,10 @@
 * DynamoDB, IAM Role (Automatic vs. Manual)
 * Billing
 
+### Source Code
+
+* https://github.com/larrykubin/stockbot
+
 ### Screencast Tutorials (Stockbot)
 
 * Serverless Slack Bot Tutorial Part 1: https://www.youtube.com/watch?v=-Ag_k5p0sTs
