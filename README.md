@@ -42,6 +42,7 @@
 * Adding local packages (config, utils)
 * Cloudwatch Events (Cron, Rate)
 * DynamoDB
+* Billing
 
 ### Screencast Tutorials (Stockbot)
 
