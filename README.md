@@ -42,6 +42,7 @@
 * Adding local packages (config, utils)
 * Cloudwatch Events (Cron, Rate)
 * DynamoDB, IAM Role (Automatic vs. Manual)
+* Authorization
 * Billing
 
 ### Source Code
@@ -60,8 +61,8 @@
 * React UI
 * CORS
 * Packaging chalicelib - font, image, blueprints, packages
-** boto3
-*** DynamoDB
-*** S3
+* boto3
+* DynamoDB
+* S3
 * Cognito
 * SDK Generation
