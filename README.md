@@ -57,9 +57,9 @@
 
 ## Project 3: Music Festival Posters
 
-* What is this?
-* React UI
-* CORS
+* What is it? createlineup.com - simple PHP webapp with daily usage
+* Goal: port this to "serverless"
+* React UI and CORS
 * Packaging chalicelib - font, image, blueprints, packages
 * boto3
 * DynamoDB
