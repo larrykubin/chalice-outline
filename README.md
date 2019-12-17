@@ -47,6 +47,7 @@
 * Adding local packages (config, utils)
 * Cloudwatch Events (Cron, Rate)
 * DynamoDB, IAM Role (Automatic vs. Manual)
+* https://hub.docker.com/r/amazon/dynamodb-local/
 * Billing
 
 ### Source Code
