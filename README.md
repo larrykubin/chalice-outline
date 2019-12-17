@@ -64,7 +64,7 @@
 * Packaging chalicelib - font, image, blueprints, packages
 * boto3 - client for s3, sqs, dynamodb
 * Chalice Events - On SQS Message, On S3 Event
-* Cognito and amazon-cognito-identity-js
 * Python Imaging Library and S3 (image upload)
+* Cognito (show User Pool) and amazon-cognito-identity-js
 * SDK Generation
 * CodeCommit, CodePipeline
