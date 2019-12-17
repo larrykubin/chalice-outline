@@ -58,6 +58,7 @@
 ## Project 3: Music Festival Posters
 
 * What is it? createlineup.com - simple PHP webapp with daily usage
+* Good amount of sharing on twitter, emails for theming / consulting
 * Goal: port this to "serverless"
 * React UI and CORS
 * Packaging chalicelib - font, image, blueprints, packages
