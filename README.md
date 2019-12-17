@@ -62,8 +62,9 @@
 * Goal: port this to "serverless"
 * React UI and CORS
 * Packaging chalicelib - font, image, blueprints, packages
-* boto3
+* boto3 - client for s3, sqs, dynamodb
 * DynamoDB
 * S3
 * Cognito
 * SDK Generation
+* CodeCommit, CodePipeline
