@@ -4,8 +4,7 @@
 * Lambda + API Gateway - Billed per execution
 * Handles configuration
 
-![Serverless App]
-(https://d1.awsstatic.com/Test%20Images/Kate%20Test%20Images/Serverless_Web_App_LP_assets-12.da876b91b6451199d3582b6cc81dc17ff7e5791f.png)
+![Serverless App](https://d1.awsstatic.com/Test%20Images/Kate%20Test%20Images/Serverless_Web_App_LP_assets-12.da876b91b6451199d3582b6cc81dc17ff7e5791f.png)
 
 ## Project 1: Hello World
 
