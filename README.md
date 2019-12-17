@@ -60,7 +60,7 @@
 * What is it? createlineup.com - simple PHP webapp with daily usage
 * Good amount of sharing on twitter, emails for theming / consulting
 * Goal: port this to "serverless"
-* React UI and CORS
+* React UI and CORS, unique font, style, poster
 * Packaging chalicelib - font, image, blueprints, packages
 * boto3 - client for s3, sqs, dynamodb
 * Chalice Events - On SQS Message, On S3 Event
